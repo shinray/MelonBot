@@ -2,10 +2,8 @@ import socket
 import time #apparently sleep() isn't defined
 
 #variables
-#NICK = "shinray_"
-NICK = "shinray"
-#PASS = "oauth:wz4y8oo998go6vq71rqzpcm8b0kmzz"
-PASS = "oauth:5nbnxz8uog825p6j5rlvcq3zmzjur4"
+NICK = "shinray_"
+PASS = "oauth:wz4y8oo998go6vq71rqzpcm8b0kmzz"
 HOST = "irc.twitch.tv"
 PORT = 6667
 CHAN = "#shinray"
